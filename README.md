@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Selfishshishkabob
 - 👀 I’m interested in embedded, automation, and software engineering
-- 🌱 I’m currently learning automotive industry
+- 🌱 I’m currently learning the automotive industry
 - 💞️ I’m looking to collaborate on transportation and automation
 - 📫 How to reach me perryjagger@gmail.com
 
